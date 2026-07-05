@@ -688,7 +688,7 @@ DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN,ads.youtube.com
 DOMAIN,googleads.g.doubleclick-cn.net
-
+DOMAIN,pubads.g.doubleclick-cn.net
 
 # (H)
 # > HunanTV
